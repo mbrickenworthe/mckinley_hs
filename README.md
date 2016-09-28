@@ -1,4 +1,4 @@
-Let's make a list of our favorite things.
+Let's make a list off our favorite things.
 
 - Balloon
 - Sloth
