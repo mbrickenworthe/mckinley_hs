@@ -2,7 +2,8 @@ Let's make a list off our favorite things.
 
 - Balloon
 - Sloth
-- Pizza Clothesgit 
+- Pizza Clothes
 - Hockey
 - Chocolate
 - Cheer
+- cake
