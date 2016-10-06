@@ -4,7 +4,18 @@ Let's make a list off our favorite things.
 - Sloth
 - Hockey
 - Chocolate
-- Football
-- Chicken 
-
-
+`;-.          ___,
+  `.`\_...._/`.-"`
+    \        /      ,
+    /()   () \    .' `-._
+   |)  .    ()\  /   _.'
+   \  -'-     ,; '. <
+    ;.__     ,;|   > \
+   / ,    / ,  |.-'.-'
+  (_/    (_/ ,;|.<`
+    \    ,     ;-`
+     >   \    /
+    (_,-'`> .'
+        (_,'
+- Pizza
+- Games (Video)
